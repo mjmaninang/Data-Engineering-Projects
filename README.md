@@ -1,5 +1,12 @@
+
+
 # My-First-Simple-ETL-Project
-#First ETL Project after 1 month of studying data analytics
+
+#First ETL Project after 2m weeks of studying data analytics
+
+#
+
+
 import pandas as pd
 import numpy as np
 import sqlite3
