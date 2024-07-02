@@ -1,4 +1,4 @@
-#My-First-Simple-ETL-Project
+#Loan Data Cleaning and Analysis
 
 #Data Manipulation and Load to SQLite3
 
